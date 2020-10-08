@@ -14,3 +14,8 @@ var connection = mysql.createConnection({
   password: 'admin#20',
   database: 'tracker_db',
 })
+
+connection.connect(function (err) {
+  if (err) throw err
+  runTracker()
+})
