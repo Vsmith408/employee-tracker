@@ -6,4 +6,4 @@ A look into the employee tracker application:
 
 ---
 
-![Employee Tracker CLI](assets/employee-tracker-cli.png)
+![Employee Tracker CLI](./assets/employee-tracker-cli.png)
